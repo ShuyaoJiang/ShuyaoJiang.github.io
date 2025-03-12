@@ -2,5 +2,5 @@ I am a 4th-year Ph.D. student at [ARISE Lab](http://ariselab.cse.cuhk.edu.hk/), 
 
 My research interests include **software testing, program analysis, and runtime systems**. Currently, I am working on performance testing and optimization for WebAssembly runtime systems.
 
-**<font color=red>* I am now looking for a postdoctoral position (expected to start in 2026). If there are any opportunities you would like to recommend, please feel free to contact me. 🤗</font>**
+**<font color=red>* I am now looking for a postdoctoral position (expected to start in 2026). If there are any opportunities you would like to recommend, please kindly let me know. 🤗</font>**
 
