@@ -4,10 +4,12 @@
 
   **Shuyao Jiang**, Ruiying Zeng, Yangfan Zhou, and Michael R. Lyu.
 
-  To appear in *Proceedings of the 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)*, March 2025.
+  In *Proceedings of the 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)*, March 2025.
   
-  [[Preprint](https://arxiv.org/abs/2412.20100)]
+  [[Paper](https://shuyaojiang.github.io/publications/saner25/SANER25_WarpGen_Paper.pdf)]
+  [[Slides](https://shuyaojiang.github.io/publications/saner25/SANER25_WarpGen_Slides.pdf)]
   [[Code](https://github.com/ShuyaoJiang/WarpGen)]
+  [[BibTex](https://shuyaojiang.github.io/publications/saner25/saner25-bibtex.txt)]
 
 
 * `ASE'23` **Revealing Performance Issues in Server-side WebAssembly Runtimes via Differential Testing**.
