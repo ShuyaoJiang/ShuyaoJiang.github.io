@@ -1,8 +1,8 @@
 # 📝 Publications
 
-* `SANER'25` **Distinguishability-guided Test Program Generation for WebAssembly Runtime Performance Testing**.
+* `SANER 2025` **Distinguishability-guided Test Program Generation for WebAssembly Runtime Performance Testing**
 
-  **Shuyao Jiang**, Ruiying Zeng, Yangfan Zhou, and Michael R. Lyu.
+  **Shuyao Jiang**, Ruiying Zeng, Yangfan Zhou, and Michael R. Lyu
 
   In *Proceedings of the 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)*, March 2025.
   
@@ -12,9 +12,9 @@
   [[BibTex](https://shuyaojiang.github.io/publications/saner25/saner25-bibtex.txt)]
 
 
-* `ASE'23` **Revealing Performance Issues in Server-side WebAssembly Runtimes via Differential Testing**.
+* `ASE 2023` **Revealing Performance Issues in Server-side WebAssembly Runtimes via Differential Testing**
 
-  **Shuyao Jiang**, Ruiying Zeng, Zihao Rao, Jiazhen Gu, Yangfan Zhou, and Michael R. Lyu.
+  **Shuyao Jiang**, Ruiying Zeng, Zihao Rao, Jiazhen Gu, Yangfan Zhou, and Michael R. Lyu
 
   In *Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE)*, September 2023.
 
@@ -25,9 +25,9 @@
   [[BibTex](https://shuyaojiang.github.io/publications/ase23/ase23-bibtex.txt)]
 
 
-* `TSE'23` **Towards Usable Neural Comment Generation via Code-Comment Linkage Interpretation: Method and Empirical Study**.
+* `TSE 2023` **Towards Usable Neural Comment Generation via Code-Comment Linkage Interpretation: Method and Empirical Study**
 
-  **Shuyao Jiang**, Jiacheng Shen, Shengnan Wu, Yu Cai, Yue Yu, and Yangfan Zhou.
+  **Shuyao Jiang**, Jiacheng Shen, Shengnan Wu, Yu Cai, Yue Yu, and Yangfan Zhou
 
   In *IEEE Transactions on Software Engineering (TSE)*, vol. 49, no. 4, pp. 2239-2254, April 2023.
 
@@ -37,9 +37,9 @@
   [[BibTex](https://shuyaojiang.github.io/publications/tse23/tse23-bibtex.txt)]
 
 
-* `ASE'19` **Boosting Neural Commit Message Generation with Code Semantic Analysis**.
+* `ASE 2019` **Boosting Neural Commit Message Generation with Code Semantic Analysis (Won the second place in SRC 🏆)** 
 
-  **Shuyao Jiang**.
+  **Shuyao Jiang**
 
   In *Proceedings of the 34th IEEE/ACM International Conference on Automated Software Engineering (ASE)*, November 2019.
 

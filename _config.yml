@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shuyao Jiang"
   avatar           : "images/profile_syjiang.png"
-  bio              : "Ph.D. Candidate in Computer Science and Engineering, The Chinese University of Hong Kong"
-  location         : "Sha Tin, Hong Kong"
+  bio              : "Ph.D. Candidate, Department of Computer Science and Engineering, The Chinese University of Hong Kong"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0ADiX6wAAAAJ&hl"
