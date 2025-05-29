@@ -9,6 +9,7 @@
   [[Paper](https://shuyaojiang.github.io/publications/saner25/SANER25_WarpGen_Paper.pdf)]
   [[Slides](https://shuyaojiang.github.io/publications/saner25/SANER25_WarpGen_Slides.pdf)]
   [[Code](https://github.com/ShuyaoJiang/WarpGen)]
+  [[DOI](https://doi.org/10.1109/SANER64311.2025.00078)]
   [[BibTex](https://shuyaojiang.github.io/publications/saner25/saner25-bibtex.txt)]
 
 
