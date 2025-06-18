@@ -1,5 +1,12 @@
 # 📝 Publications
 
+* `ESEM 2025` **Can User Feedback Help Issue Detection? An Empirical Study on a One-billion-user Online Service System**
+
+  **Shuyao Jiang**, Jiazhen Gu, Wujie Zheng, Yangfan Zhou, and Michael R. Lyu
+
+  To appear in *Proceedings of the 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)*, September 2025.
+
+
 * `SANER 2025` **Distinguishability-guided Test Program Generation for WebAssembly Runtime Performance Testing**
 
   **Shuyao Jiang**, Ruiying Zeng, Yangfan Zhou, and Michael R. Lyu
