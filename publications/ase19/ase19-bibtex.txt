@@ -1,0 +1,8 @@
+@inproceedings{jiang2019boosting,
+  title={Boosting Neural Commit Message Generation with Code Semantic Analysis},
+  author={Jiang, Shuyao},
+  booktitle={Proceedings of the 34th IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+  pages={1280--1282},
+  year={2019},
+  organization={IEEE}
+}

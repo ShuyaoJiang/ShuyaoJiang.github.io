@@ -1,0 +1,8 @@
+@inproceedings{jiang2025distinguishability,
+  title={Distinguishability-guided Test Program Generation for WebAssembly Runtime Performance Testing},
+  author={Jiang, Shuyao and Zeng, Ruiying and Zhou, Yangfan and Lyu, Michael R.},
+  booktitle={Proceedings of the 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)},
+  pages={768--779},
+  year={2025},
+  organization={IEEE}
+}

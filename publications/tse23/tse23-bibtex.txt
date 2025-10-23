@@ -1,0 +1,10 @@
+@article{jiang2023towards,
+  title={Towards Usable Neural Comment Generation via Code-Comment Linkage Interpretation: Method and Empirical Study},
+  author={Jiang, Shuyao and Shen, Jiacheng and Wu, Shengnan and Cai, Yu and Yu, Yue and Zhou, Yangfan},
+  journal={IEEE Transactions on Software Engineering (TSE)},
+  volume={49},
+  number={4},
+  pages={2239--2254},
+  year={2023},
+  publisher={IEEE}
+}
