@@ -5,17 +5,13 @@ navbar_name: "Shuyao Jiang"
 positions:
 - name: Ph.D. Candidate
 - name: The Chinese University of Hong Kong
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+  logo: /assets/images/badges/CUHK.jpg
 
 
 email: "syjiang21@cse.cuhk.edu.hk"
 # cv_link: link-to-your-cv-file
-gscholar: 0ADiX6wAAAAJ  # This is an example, replace it with your own Google Scholar ID
+gscholar: 0ADiX6wAAAAJ
 github: ShuyaoJiang
-# twitter: your_twitter_id  # Do not include the '@' symbol
-# wechat_qrcode: /assets/images/etc/wechat.jpg
-# wechat_prompt: >-
-#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 linkedin: shuyao-jiang-716154294
 orcid: 0000-0002-2797-875X
 
@@ -42,16 +38,18 @@ portrait_caption: >-
   Welcome to my homepage!
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+- name: The Chinese University of Hong Kong
+  logo: /assets/images/badges/CUHK.jpg
+  position: Ph.D. in Computer Science and Engineering
+  date: Jan. 2022 - Present
+- name: Fudan University
+  logo: /assets/images/badges/FDU.png
+  position: M.Eng. in Computer Science
+  date: Sep. 2019 - Jan. 2022
+- name: Fudan University
+  logo: /assets/images/badges/FDU.png
+  position: B.Sc. in Computer Science
+  date: Sep. 2015 - Jun. 2019
 
 # experience:
 # - name: Peking University
@@ -60,9 +58,13 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Outstanding Graduate Award of Fudan University (Postgraduate)
+  date: Jan. 2022
+- name: Third Prize in Software and System Prototype Competition at School of Computer Science, Fudan University
+  date: Dec. 2021
+- name: Huawei Scholarship
+  date: Oct. 2020
+- name: Second Place in ACM Student Research Competition at ASE 2019
+  date: Nov. 2019
+- name: Outstanding Graduate Award of Fudan University (Undergraduate)
+  date: Jun. 2019
