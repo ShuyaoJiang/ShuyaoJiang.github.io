@@ -1,13 +1,11 @@
 ---
-title:          >-
-                <span class="badge badge-pill badge-custom badge-success">ASE'19</span> 
-                "Boosting Neural Commit Message Generation with Code Semantic Analysis"
+title:          "Boosting Neural Commit Message Generation with Code Semantic Analysis"
 date:           2019-11-11 00:00:00 +0800
 selected:       true
 pub:            >-
-                In <i>Proceedings of the 34th IEEE/ACM International Conference on Automated Software Engineering (ASE)</i>, pp. 1280-1282, San Diego, CA, USA, November 11-15, 2019.
-# pub_pre:        >-
-                  # <span class="badge badge-pill badge-custom badge-success">ASE'19</span>
+                The 34th IEEE/ACM International Conference on Automated Software Engineering, San Diego, CA, USA, Nov. 11-15, 2019.
+pub_pre:        >-
+                <span class="badge badge-pill badge-custom badge-success">ASE'19</span> 
 # pub_post:       'Under review.'
 # pub_last:       '<span class="badge badge-pill badge-custom badge-secondary">Conference</span><span class="badge badge-pill badge-custom badge-warning">Poster</span>'
 abstract: >-
