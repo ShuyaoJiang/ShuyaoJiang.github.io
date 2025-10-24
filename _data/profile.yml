@@ -30,7 +30,7 @@ short_bio: >-
     Currently, I am working on performance testing and optimization for WebAssembly runtime systems.
   </p>
   <p>
-    <b> I am now looking for a postdoctoral position (expected to start in 2026). If there are any opportunities you would like to recommend, please kindly let me know. 🤗</b>
+    <b>I am actively seeking a postdoctoral position (expected to start in 2026). If there are any opportunities you would like to recommend, please kindly let me know.</b> 🤗
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -64,7 +64,25 @@ awards:
   date: Dec. 2021
 - name: Huawei Scholarship
   date: Oct. 2020
-- name: Second Place in ACM Student Research Competition at ASE 2019
+- name: Second Place in <a href="https://src.acm.org/">ACM Student Research Competition</a> at ASE 2019
   date: Nov. 2019
 - name: Outstanding Graduate Award of Fudan University (Undergraduate)
   date: Jun. 2019
+
+work:
+- name: Research Intern, Huawei Institute, Shenzhen, China
+  date: Mar. 2022 - Oct. 2022
+- name: Research Intern, Tencent, Guangzhou, China
+  date: Jan. 2021 - May 2021
+- name: Software Development Intern, SAP, Shanghai, China
+  date: Jul. 2018 - Sep. 2018
+
+teaching:
+- name: >-
+    Teaching Assistant, The Chinese University of Hong Kong <br/>
+    <a href="https://www.cse.cuhk.edu.hk/academics/ug-course-list/csci3100/">CSCI3100 Software Engineering</a> (2022 Spring, 2023 Spring) <br/>
+    <a href="https://www.cse.cuhk.edu.hk/academics/ug-course-list/csci2720/">CSCI2720 Building Web Applications</a> (2022 Fall)
+- name: >-
+    Teaching Assistant, Fudan University <br/>
+    COMP130176 Programming Methods and Techniques (2021 Fall) <br/>
+    COMP130048 Java Programming (2019 Spring, 2020 Spring, 2021 Spring)
