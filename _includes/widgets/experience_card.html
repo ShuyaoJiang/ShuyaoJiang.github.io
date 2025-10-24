@@ -50,7 +50,12 @@
                             <h6>💻 Work Experience</h6>
                             <ul class="list small pl-3 mb-1">
                                 {% for item in site.data.profile.work %}
-                                <li>{{ item.name }} <em class="float-right">{{ item.date }}</em></li>
+                                <li>
+                                    <div class="d-flex">
+                                        <div>{{ item.name }}</div>
+                                        <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
+                                    </div>
+                                </li>
                                 {% endfor %}
                             </ul>
                         </div>
@@ -63,7 +68,12 @@
                             <h6>💬 Teaching Assistants</h6>
                             <ul class="list small pl-3 mb-1">
                                 {% for item in site.data.profile.teaching %}
-                                <li>{{ item.name }} <em class="float-right">{{ item.date }}</em></li>
+                                <li>
+                                    <div class="d-flex">
+                                        <div>{{ item.name }}</div>
+                                        <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
+                                    </div>
+                                </li>
                                 {% endfor %}
                             </ul>
                         </div>
