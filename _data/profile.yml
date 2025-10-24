@@ -51,12 +51,6 @@ education:
   position: B.Sc. in Computer Science
   date: Sep. 2015 - Jun. 2019
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
-
 awards:
 - name: Outstanding Graduate Award of Fudan University (Postgraduate)
   date: Jan. 2022
@@ -78,11 +72,11 @@ work:
   date: Jul. 2018 - Sep. 2018
 
 teaching:
-- name: >-
-    Teaching Assistant, The Chinese University of Hong Kong <br/>
-    <a href="https://www.cse.cuhk.edu.hk/academics/ug-course-list/csci3100/">CSCI3100 Software Engineering</a> (2022 Spring, 2023 Spring) <br/>
-    <a href="https://www.cse.cuhk.edu.hk/academics/ug-course-list/csci2720/">CSCI2720 Building Web Applications</a> (2022 Fall)
-- name: >-
-    Teaching Assistant, Fudan University <br/>
-    COMP130176 Programming Methods and Techniques (2021 Fall) <br/>
-    COMP130048 Java Programming (2019 Spring, 2020 Spring, 2021 Spring)
+- name: CSCI3100 Software Engineering
+  date: 2022, 2023
+- name: CSCI2720 Building Web Applications
+  date: 2022
+- name: COMP130176 Programming Methods and Techniques
+  date: 2021
+- name: COMP130048 Java Programming
+  date: 2019, 2020, 2021
