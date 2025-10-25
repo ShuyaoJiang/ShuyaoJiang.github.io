@@ -17,5 +17,5 @@ authors:
   - Michael R. Lyu
 links:
   Arxiv: https://arxiv.org/abs/2508.00593
-  Slides: https://shuyaojiang.github.io/publications/esem25/ESEM25_Technical_Feedback_Slides.pdf
+  Slides: https://shuyaojiang.github.io/files/ESEM25/ESEM25_Technical_Feedback_Slides.pdf
 ---

@@ -17,8 +17,8 @@ authors:
   - Yue Yu
   - Yangfan Zhou
 links:
-  Paper: https://shuyaojiang.github.io/publications/tse23/TSE23_CCLink.pdf
+  Paper: https://shuyaojiang.github.io/files/TSE23/TSE23_CCLink.pdf
   Project: https://github.com/CCLink-demo
   DOI: https://doi.org/10.1109/TSE.2022.3214859
-  BibTex: https://shuyaojiang.github.io/publications/tse23/tse23-bibtex.txt
+  BibTex: https://shuyaojiang.github.io/files/TSE23/TSE23_bibtex.txt
 ---

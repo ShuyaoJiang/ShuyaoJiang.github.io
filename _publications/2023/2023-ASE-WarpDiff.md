@@ -17,10 +17,10 @@ authors:
   - Yangfan Zhou
   - Michael R. Lyu
 links:
-  Paper: https://shuyaojiang.github.io/publications/ase23/ASE23_WarpDiff_Proc.pdf
+  Paper: https://shuyaojiang.github.io/files/ASE23/ASE23_WarpDiff.pdf
   Arxiv: https://arxiv.org/abs/2309.12167
-  Slides: https://shuyaojiang.github.io/publications/ase23/ASE23_WarpDiff_Slides.pdf
+  Slides: https://shuyaojiang.github.io/files/ASE23/ASE23_WarpDiff_Slides.pdf
   Project: https://github.com/ShuyaoJiang/WarpDiff
   DOI: https://doi.org/10.1109/ASE56229.2023.00088
-  BibTex: https://shuyaojiang.github.io/publications/ase23/ase23-bibtex.txt
+  BibTex: https://shuyaojiang.github.io/files/ASE23/ASE23_bibtex.txt
 ---

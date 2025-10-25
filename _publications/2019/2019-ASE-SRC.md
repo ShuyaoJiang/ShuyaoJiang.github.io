@@ -13,9 +13,9 @@ abstract: >-
 authors:
   - Shuyao Jiang
 links:
-  Paper: https://shuyaojiang.github.io/publications/ase19/ase19-src-paper.pdf
-  Poster: https://shuyaojiang.github.io/publications/ase19/src-poster.pdf
-  Slides: https://shuyaojiang.github.io/publications/ase19/src-slides.pdf
+  Paper: https://shuyaojiang.github.io/files/ASE19/ASE19_SRC.pdf
+  Poster: https://shuyaojiang.github.io/files/ASE19/ASE19_SRC_Poster.pdf
+  Slides: https://shuyaojiang.github.io/files/ASE19/ASE19_SRC_Slides.pdf
   DOI: https://doi.org/10.1109/ASE.2019.00162
-  BibTex: https://shuyaojiang.github.io/publications/ase19/ase19-bibtex.txt
+  BibTex: https://shuyaojiang.github.io/files/ASE19/ASE19_bibtex.txt
 ---
