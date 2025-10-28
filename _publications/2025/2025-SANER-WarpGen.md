@@ -16,7 +16,7 @@ authors:
   - Michael R. Lyu
 links:
   Paper: https://shuyaojiang.github.io/files/SANER25/SANER25_WarpGen.pdf
-  Arxiv: https://arxiv.org/abs/2412.20100
+  arXiv: https://arxiv.org/abs/2412.20100
   Slides: https://shuyaojiang.github.io/files/SANER25/SANER25_WarpGen_Slides.pdf
   Project: https://github.com/ShuyaoJiang/WarpGen
   DOI: https://doi.org/10.1109/SANER64311.2025.00078
