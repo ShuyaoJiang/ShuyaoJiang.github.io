@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Shuyao Jiang"
 
 positions:
-- name: Ph.D. Candidate
+- name: Ph.D. in Computer Science and Engineering
 - name: The Chinese University of Hong Kong
   logo: /assets/images/badges/CUHK.jpg
 
@@ -18,7 +18,7 @@ orcid: 0000-0002-2797-875X
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a 4th-year Ph.D. student at <a href="http://ariselab.cse.cuhk.edu.hk/">ARISE Lab</a>, 
+    I am a newly graduated Ph.D. from <a href="http://ariselab.cse.cuhk.edu.hk/">ARISE Lab</a>, 
     <a href="https://www.cse.cuhk.edu.hk/">Department of Computer Science and Engineering</a>, 
     <a href="https://www.cuhk.edu.hk/">The Chinese University of Hong Kong</a>,
     supervised by <a href="https://www.cse.cuhk.edu.hk/lyu/">Prof. Michael R. Lyu</a>.
@@ -26,11 +26,11 @@ short_bio: >-
     supervised by <a href="https://www.y-droid.com/yz/">Prof. Yangfan Zhou</a>.
   </p>
   <p>
-    My research interests include <b>software testing and debugging, program analysis, code generation, runtime systems, and AIOps</b>. 
+    My research interests include <b>software testing and debugging, performance engineering, runtime optimization, and AI4SE</b>. 
     Currently, I am working on performance testing and optimization for WebAssembly runtime systems.
   </p>
-  <p>
-    <b>I am actively seeking a postdoctoral position (expected to start in 2026). If there are any opportunities you would like to recommend, please kindly let me know.</b> 🤗
+  <p style="background-color:yellow;">
+    <b>I am actively seeking a postdoctoral position.</b> If there are any opportunities you would like to recommend, please kindly contact me.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -41,7 +41,7 @@ education:
 - name: The Chinese University of Hong Kong
   logo: /assets/images/badges/CUHK.jpg
   position: Ph.D. in Computer Science and Engineering
-  date: Jan. 2022 - Present
+  date: Jan. 2022 - Jan. 2026
 - name: Fudan University
   logo: /assets/images/badges/FDU.png
   position: M.Eng. in Computer Science
