@@ -40,10 +40,10 @@ portrait_caption: >-
 education:
 - name: The Chinese University of Hong Kong
   logo: /assets/images/badges/CUHK.jpg
-  position: >-
-    Ph.D. in Computer Science and Engineering <br>
-    <i>Supervisor:</i> Prof. Michael R. Lyu (ACM/IEEE/AAAS Fellow)
+  position: Ph.D. in Computer Science and Engineering
   date: Jan. 2022 - Jan. 2026
+  supervisor: >-
+    <i>Supervisor:</i> Prof. Michael R. Lyu (ACM/IEEE/AAAS Fellow)
 - name: Fudan University
   logo: /assets/images/badges/FDU.png
   position: M.Eng. in Computer Science
