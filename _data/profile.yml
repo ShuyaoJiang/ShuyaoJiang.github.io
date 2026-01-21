@@ -72,11 +72,20 @@ work:
   date: Jul. 2018 - Sep. 2018
 
 teaching:
-- name: CSCI3100 Software Engineering
+- name: CSCI3100 Software Engineering (CUHK)
   date: 2022, 2023
-- name: CSCI2720 Building Web Applications
+- name: CSCI2720 Building Web Applications (CUHK)
   date: 2022
-- name: COMP130176 Programming Methods and Techniques
+- name: COMP130176 Programming Methods and Techniques (FDU)
   date: 2021
-- name: COMP130048 Java Programming
+- name: COMP130048 Java Programming (FDU)
   date: 2019, 2020, 2021
+
+service:
+- name: >-
+  Conference Reviewer: 
+    FSE'26, DSN'26,
+    ASE'25, ISSTA'25,
+    FSE'23, ISSRE'23,
+    FSE'22, PRDC'22
+- name: "Journal Reviewer: TSE, TOSEM"
