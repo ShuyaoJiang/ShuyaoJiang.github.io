@@ -1,0 +1,8 @@
+@inproceedings{jiang2025can,
+  title={Can User Feedback Help Issue Detection? An Empirical Study on a One-Billion-User Online Service System},
+  author={Jiang, Shuyao and Gu, Jiazhen and Zheng, Wujie and Zhou, Yangfan and Lyu, Michael R.},
+  booktitle={2025 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)},
+  pages={56--67},
+  year={2025},
+  organization={IEEE}
+}

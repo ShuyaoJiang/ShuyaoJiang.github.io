@@ -3,7 +3,7 @@ title:          "Can User Feedback Help Issue Detection? An Empirical Study on a
 date:           2025-09-29 00:00:00 +0800
 selected:       true
 pub:            >-
-                The 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement, Honolulu, Hawaii, USA, Sep. 29 - Oct. 3, 2025.
+                The 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement, Honolulu, HI, USA, Sep. 29 - Oct. 3, 2025.
 pub_pre:        >-
                 <span class="badge badge-pill badge-custom badge-success">ESEM'25</span> 
 abstract: >-
@@ -16,6 +16,9 @@ authors:
   - Yangfan Zhou
   - Michael R. Lyu
 links:
+  Paper: https://shuyaojiang.github.io/files/ESEM25/ESEM25_Feedback.pdf
   arXiv: https://arxiv.org/abs/2508.00593
   Slides: https://shuyaojiang.github.io/files/ESEM25/ESEM25_Technical_Feedback_Slides.pdf
+  DOI: https://doi.org/10.1109/ESEM64174.2025.00026
+  BibTex: https://shuyaojiang.github.io/files/ESEM25/ESEM25_bibtex.txt
 ---

@@ -82,10 +82,5 @@ teaching:
   date: 2019, 2020, 2021
 
 service:
-- name: >-
-  Conference Reviewer: 
-    FSE'26, DSN'26,
-    ASE'25, ISSTA'25,
-    FSE'23, ISSRE'23,
-    FSE'22, PRDC'22
+- name: "Conference Reviewer: FSE'26, DSN'26, ASE'25, ISSTA'25, FSE'23, ISSRE'23, FSE'22, PRDC'22"
 - name: "Journal Reviewer: TSE, TOSEM"
