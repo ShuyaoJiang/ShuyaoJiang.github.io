@@ -8,7 +8,7 @@ positions:
   logo: /assets/images/badges/CUHK.jpg
 
 
-email: "syjiang21@cse.cuhk.edu.hk"
+email: "syjiang@link.cuhk.edu.hk"
 # cv_link: link-to-your-cv-file
 gscholar: 0ADiX6wAAAAJ
 github: ShuyaoJiang
@@ -26,11 +26,11 @@ short_bio: >-
     supervised by <a href="https://www.y-droid.com/yz/">Prof. Yangfan Zhou</a>.
   </p>
   <p>
-    My research interests include <b>software testing and debugging, performance engineering, runtime optimization, and AI4SE</b>. 
+    My research interests include <b>software testing and debugging, program analysis, runtime optimization, and AI4SE</b>. 
     Currently, I am working on performance testing and optimization for WebAssembly runtime systems.
   </p>
   <p style="background-color:yellow;">
-    <b>I am now actively seeking a postdoctoral position.</b> If there are any opportunities you would like to recommend, please kindly contact me.
+    <b>I am now actively seeking research job opportunities, including postdoctoral and other research positions. If you are aware of any relevant opportunities, please feel free to contact me.</b>
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -41,7 +41,7 @@ education:
 - name: The Chinese University of Hong Kong
   logo: /assets/images/badges/CUHK.jpg
   position: Ph.D. in Computer Science and Engineering
-  date: Jan. 2022 - Jan. 2026
+  date: Jan. 2022 - Mar. 2026
 - name: Fudan University
   logo: /assets/images/badges/FDU.png
   position: M.Eng. in Computer Science
@@ -82,5 +82,5 @@ teaching:
   date: 2019, 2020, 2021
 
 service:
-- name: "Conference Reviewer: FSE'26, DSN'26, ASE'25, ISSTA'25, FSE'23, ISSRE'23, FSE'22, PRDC'22"
+- name: "Conference Reviewer: FSE'26, DSN'26, ICSE'26-JAWs, ASE'25, ISSTA'25, FSE'23, ISSRE'23, FSE'22, PRDC'22"
 - name: "Journal Reviewer: TSE, TOSEM"
