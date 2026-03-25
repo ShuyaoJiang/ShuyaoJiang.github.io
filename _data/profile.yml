@@ -82,5 +82,6 @@ teaching:
   date: 2019, 2020, 2021
 
 service:
+- name: "Program Committee: ICSE'27-Demos"
 - name: "Conference Reviewer: FSE'26, DSN'26, ICSE'26-JAWs, ASE'25, ISSTA'25, FSE'23, ISSRE'23, FSE'22, PRDC'22"
 - name: "Journal Reviewer: TSE, TOSEM"
