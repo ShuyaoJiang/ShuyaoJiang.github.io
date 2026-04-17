@@ -15,5 +15,8 @@ authors:
   - Wenxuan Zhao
   - Yangfan Zhou
 links:
-
+  arXiv: https://arxiv.org/abs/2604.13693
+  Slides: https://www.youtube.com/watch?v=8NYlKZgGR9w
+  DOI: https://doi.org/10.1145/3744916.3773141
+  BibTex: https://shuyaojiang.github.io/files/ICSE26/ICSE26_bibtex.txt
 ---

@@ -1,0 +1,7 @@
+@inproceedings{zeng2026debugging,
+  title={Debugging Performance Issues in WebAssembly Runtimes via Mutation-based Inference},
+  author={Zeng, Ruiying and Jiang, Shuyao and Zhao, Wenxuan and Zhou, Yangfan},
+  booktitle={Proceedings of the 48th IEEE/ACM International Conference on Software Engineering (ICSE)},
+  pages={},
+  year={2026}
+}
