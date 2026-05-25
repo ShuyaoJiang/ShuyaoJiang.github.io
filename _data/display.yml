@@ -2,7 +2,7 @@ homepage:
   show_experience: true
   show_news: true
   show_selected_publications: true
-  num_news: 10
+  num_news: 20
 
 footer_text: >-
   Copyright © 2026 <a href="https://github.com/ShuyaoJiang/ShuyaoJiang.github.io" target="_blank">Shuyao Jiang</a>. All Rights Reserved.
