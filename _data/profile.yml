@@ -25,8 +25,8 @@ short_bio: >-
     My research interests include <b>software testing and debugging, program analysis, runtime optimization, and AI4SE</b>. 
     Currently, I am working on performance testing and optimization for WebAssembly runtime systems.
   </p>
-  <p style="background-color:yellow;">
-    <b>I am currently on the academic job market and actively seeking faculty positions. If you are aware of any relevant opportunities, please feel free to contact me.</b>
+  <p style="margin-top: 0.75rem; padding: 0.65rem 0.85rem; border-left: 4px solid #6f8ff2; border-radius: 6px; background: #f5f7ff; color: #25324d;">
+    <b>I am actively seeking faculty positions in software engineering. Please feel free to contact me about relevant opportunities.</b>
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
