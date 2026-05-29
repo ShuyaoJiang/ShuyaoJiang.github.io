@@ -26,7 +26,7 @@ short_bio: >-
     Currently, I am working on performance testing and optimization for WebAssembly runtime systems.
   </p>
   <p style="margin-top: 0.75rem; padding: 0.65rem 0.85rem; border-left: 4px solid #6f8ff2; border-radius: 6px; background: #f5f7ff; color: #25324d;">
-    <b>I am actively seeking faculty positions in software engineering. Please feel free to contact me about relevant opportunities.</b>
+    <b>I am actively seeking tenure-track faculty positions in software engineering. Please feel free to contact me about relevant opportunities.</b>
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -78,6 +78,6 @@ teaching:
   date: 2019, 2020, 2021
 
 service:
-- name: "Program Committee: ICSE'27-Demos"
+- name: "Program Committee: ICSE'27-Demos, ISSTA'26-AE"
 - name: "Conference Reviewer: FSE'26, DSN'26, ICSE'26-JAWs, ASE'25, ISSTA'25, FSE'23, ISSRE'23, FSE'22, PRDC'22"
 - name: "Journal Reviewer: TSE, TOSEM"
