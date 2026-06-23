@@ -3,7 +3,7 @@ title:          "Bringing Managed Language Support to WebAssembly with External 
 date:           2026-07-05 00:00:00 +0800
 selected:       true
 pub:            >-
-                ACM International Conference on the Foundations of Software Engineering, Montreal, QC, Canada, Jul. 5-9, 2026.
+                The ACM International Conference on the Foundations of Software Engineering, Montreal, QC, Canada, Jul. 5-9, 2026.
 pub_pre:        >-
                 <span class="badge badge-pill badge-custom badge-success">FSE'26</span> 
 abstract: >-
@@ -15,5 +15,6 @@ authors:
   - Yangfan Zhou
   - Michael R. Lyu
 links:
+  arXiv: https://arxiv.org/abs/2606.21919
 
 ---
