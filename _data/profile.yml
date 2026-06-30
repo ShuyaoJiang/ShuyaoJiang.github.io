@@ -60,7 +60,7 @@ education:
 #   date: Jun. 2019
 
 work:
-- name: Research Intern, Huawei Institute, Shenzhen, China
+- name: Research Intern, Huawei, Shenzhen, China
   date: Mar. 2022 - Oct. 2022
 - name: Research Intern, Tencent, Guangzhou, China
   date: Jan. 2021 - May 2021
@@ -78,6 +78,6 @@ teaching:
   date: 2019, 2020, 2021
 
 service:
-- name: "Program Committee: ICSE'27-Demos, ISSTA'26-AE, ESEM'26-ERVR, ISSRE'26"
+- name: "Program Committee: ICSE'27-Demo, ASE'26-AE, ISSTA'26-AE, ISSRE'26, ESEM'26-ERVR"
 - name: "Conference Reviewer: FSE'26, DSN'26, ICSE'26-JAWs, ASE'25, ISSTA'25, FSE'23, ISSRE'23, FSE'22, PRDC'22"
 - name: "Journal Reviewer: TSE, TOSEM"
