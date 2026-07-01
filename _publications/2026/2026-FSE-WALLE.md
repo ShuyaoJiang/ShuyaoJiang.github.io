@@ -3,7 +3,7 @@ title:          "Bringing Managed Language Support to WebAssembly with External 
 date:           2026-07-05 00:00:00 +0800
 selected:       true
 pub:            >-
-                Proceedings of the ACM on Software Engineering (PACMSE), Vol. 3, No. FSE, pp. 3977-4000, Jul. 2026.
+                Proceedings of the ACM on Software Engineering (PACMSE), Vol. 3, No. FSE, Article FSE175, Jul. 2026.
 pub_pre:        >-
                 <span class="badge badge-pill badge-publication badge-success">FSE'26</span> 
 abstract: >-
