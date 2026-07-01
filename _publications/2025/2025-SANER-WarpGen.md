@@ -3,7 +3,7 @@ title:          "Distinguishability-guided Test Program Generation for WebAssemb
 date:           2025-03-04 00:00:00 +0800
 selected:       true
 pub:            >-
-                2025 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Montreal, QC, Canada, Mar. 4-7, 2025.
+                IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), Montreal, QC, Canada, Mar. 4-7, 2025.
 pub_pre:        >-
                 <span class="badge badge-pill badge-publication badge-success">SANER'25</span> 
 authors:

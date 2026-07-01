@@ -3,7 +3,7 @@ title:          "Revealing Performance Issues in Server-side WebAssembly Runtime
 date:           2023-09-11 00:00:00 +0800
 selected:       true
 pub:            >-
-                2023 IEEE/ACM International Conference on Automated Software Engineering (ASE), Luxembourg, Luxembourg, Sep. 11-15, 2023.
+                IEEE/ACM International Conference on Automated Software Engineering (ASE), Luxembourg, Luxembourg, Sep. 11-15, 2023.
 pub_pre:        >-
                 <span class="badge badge-pill badge-publication badge-success">ASE'23</span> 
 authors:

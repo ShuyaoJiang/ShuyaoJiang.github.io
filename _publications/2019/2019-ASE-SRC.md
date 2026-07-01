@@ -3,7 +3,7 @@ title:          "Boosting Neural Commit Message Generation with Code Semantic An
 date:           2019-11-11 00:00:00 +0800
 selected:       true
 pub:            >-
-                2019 IEEE/ACM International Conference on Automated Software Engineering (ASE), San Diego, CA, USA, Nov. 11-15, 2019.
+                IEEE/ACM International Conference on Automated Software Engineering (ASE), San Diego, CA, USA, Nov. 11-15, 2019.
 pub_pre:        >-
                 <span class="badge badge-pill badge-publication badge-success">ASE'19-SRC</span> 
 pub_last:       '<span style="color:red"><b>🏆 Second Place in ACM Student Research Competition (Undergraduate)</b></span>'         
