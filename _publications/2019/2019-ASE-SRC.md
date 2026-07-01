@@ -6,16 +6,13 @@ pub:            >-
                 2019 IEEE/ACM International Conference on Automated Software Engineering (ASE), San Diego, CA, USA, Nov. 11-15, 2019.
 pub_pre:        >-
                 <span class="badge badge-pill badge-publication badge-success">ASE'19-SRC</span> 
-pub_last:       '🏆 <span style="color:red"><b>Second Place in ACM Student Research Competition</b></span>'
-abstract: >-
-  It has been long suggested that commit messages can greatly facilitate code comprehension. However, developers may not write good commit messages in practice. Neural machine translation (NMT) has been suggested to automatically generate commit messages. Despite the efforts in improving NMT algorithms, the quality of the generated commit messages is not yet satisfactory. This paper, instead of improving NMT algorithms, suggests that proper preprocessing of code changes into concise inputs is quite critical to train NMT. We approach it with semantic analysis of code changes. We collect a real-world dataset with 50k+ commits of popular Java projects, and verify our idea with comprehensive experiments. The results show that preprocessing inputs with code semantic analysis can improve NMT significantly. This work sheds light to how to apply existing DNNs designed by the machine learning community, e.g., NMT models, to complete software engineering tasks.
-# cover:          
+pub_last:       '<span style="color:red"><b>🏆 Second Place in ACM Student Research Competition (Undergraduate)</b></span>'         
 authors:
   - Shuyao Jiang
 links:
   Paper: https://shuyaojiang.github.io/files/ASE19/ASE19_SRC.pdf
+  DOI: https://doi.org/10.1109/ASE.2019.00162
   Poster: https://shuyaojiang.github.io/files/ASE19/ASE19_SRC_Poster.pdf
   Slides: https://shuyaojiang.github.io/files/ASE19/ASE19_SRC_Slides.pdf
-  DOI: https://doi.org/10.1109/ASE.2019.00162
   BibTex: https://shuyaojiang.github.io/files/ASE19/ASE19_bibtex.txt
 ---
