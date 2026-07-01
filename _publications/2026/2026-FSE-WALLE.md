@@ -3,7 +3,7 @@ title:          "Bringing Managed Language Support to WebAssembly with External 
 date:           2026-07-05 00:00:00 +0800
 selected:       true
 pub:            >-
-                The ACM International Conference on the Foundations of Software Engineering, Montreal, QC, Canada, Jul. 5-9, 2026.
+                Proceedings of the ACM on Software Engineering (PACMSE), Vol. 3, No. FSE, pp. 3977-4000, Jul. 2026.
 pub_pre:        >-
                 <span class="badge badge-pill badge-publication badge-success">FSE'26</span> 
 abstract: >-
@@ -16,5 +16,6 @@ authors:
   - Michael R. Lyu
 links:
   arXiv: https://arxiv.org/abs/2606.21919
-
+  DOI: https://doi.org/10.1145/3808182
+  BibTex: https://shuyaojiang.github.io/files/FSE26/FSE26_bibtex.txt
 ---

@@ -3,7 +3,7 @@ title:          "Debugging Performance Issues in WebAssembly Runtimes via Mutati
 date:           2026-04-12 00:00:00 +0800
 selected:       true
 pub:            >-
-                The 48th IEEE/ACM International Conference on Software Engineering, Rio de Janeiro, Brazil, Apr. 12-18, 2026.
+                2026 IEEE/ACM International Conference on Software Engineering (ICSE), Rio de Janeiro, Brazil, Apr. 12-18, 2026.
 pub_pre:        >-
                 <span class="badge badge-pill badge-publication badge-success">ICSE'26</span> 
 abstract: >-

@@ -1,9 +1,9 @@
 ---
 title:          "Can User Feedback Help Issue Detection? An Empirical Study on a One-billion-user Online Service System"
-date:           2025-09-29 00:00:00 +0800
+date:           2025-10-02 00:00:00 +0800
 selected:       true
 pub:            >-
-                The 19th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement, Honolulu, HI, USA, Sep. 29 - Oct. 3, 2025.
+                2025 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Honolulu, HI, USA, Oct. 2-3, 2025.
 pub_pre:        >-
                 <span class="badge badge-pill badge-publication badge-success">ESEM'25</span> 
 abstract: >-

@@ -3,7 +3,7 @@ title:          "Towards Usable Neural Comment Generation via Code-Comment Linka
 date:           2023-04-01 00:00:00 +0800
 selected:       true
 pub:            >-
-                IEEE Transactions on Software Engineering, vol. 49, no. 4, pp. 2239-2254, Apr. 2023.
+                IEEE Transactions on Software Engineering (TSE), vol. 49, no. 4, pp. 2239-2254, Apr. 2023.
 pub_pre:        >-
                 <span class="badge badge-pill badge-publication badge-success">TSE'23</span> 
 abstract: >-
