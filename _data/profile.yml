@@ -3,11 +3,10 @@ secondary_name: ""
 navbar_name: "Shuyao Jiang"
 
 positions:
-- name: Ph.D. in Computer Science and Engineering
-- name: The Chinese University of Hong Kong
-  logo: /assets/images/badges/CUHK.jpg
+- name: Research Fellow
+- name: National University of Singapore
 
-email: "syjiang@link.cuhk.edu.hk"
+email: "syjiang@nus.edu.sg"
 # cv_link: link-to-your-cv-file
 gscholar: 0ADiX6wAAAAJ
 github: ShuyaoJiang
@@ -17,11 +16,12 @@ orcid: 0000-0002-2797-875X
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a newly graduated Ph.D. in Computer Science and Engineering from <a href="https://www.cuhk.edu.hk/">The Chinese University of Hong Kong</a>, supervised by <a href="https://www.cse.cuhk.edu.hk/lyu/">Prof. Michael R. Lyu</a>.
-    I received my B.Sc. and M.Eng. degrees in Computer Science from <a href="https://www.fudan.edu.cn/">Fudan University</a>, supervised by <a href="https://www.y-droid.com/yz/">Prof. Yangfan Zhou</a>.
+    I am a Research Fellow at <a href="https://www.nus.edu.sg/">National University of Singapore</a>, working with <a href="https://abhikrc.com/">Prof. Abhik Roychoudhury</a>. 
+    I received my Ph.D. in Computer Science and Engineering from <a href="https://www.cuhk.edu.hk/">The Chinese University of Hong Kong</a>, supervised by <a href="https://www.cse.cuhk.edu.hk/lyu/">Prof. Michael R. Lyu</a>.
+    Prior to that, I obtained both my B.Sc. and M.Eng. degrees in Computer Science from <a href="https://www.fudan.edu.cn/">Fudan University</a>, supervised by <a href="https://www.y-droid.com/yz/">Prof. Yangfan Zhou</a>.
   </p>
   <p>
-    My research interests include <b>software testing and debugging, program analysis, runtime systems, and AI4SE</b>. 
+    My research interests include <b>Software Testing and Debugging, Program Analysis, Runtime Systems, and AI4SE</b>. 
     Currently, I am exploring how to leverage trustworthy AI techniques to support the testing and optimization of emerging software systems (e.g., WebAssembly).
   </p>
   <p style="margin-top: 0.75rem; padding: 0.65rem 0.85rem; border-left: 4px solid #6f8ff2; border-radius: 6px; background: #f5f7ff; color: #3156c9;">
@@ -44,6 +44,7 @@ education:
   position: B.Sc. in Computer Science and Technology
 
 work:
+- name: Research Fellow, National University of Singapore
 - name: Research Intern, Huawei, Shenzhen, China
 - name: Research Intern, Tencent, Guangzhou, China
 - name: Software Development Intern, SAP, Shanghai, China
