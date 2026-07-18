@@ -14,5 +14,6 @@ authors:
 links:
   DOI: https://doi.org/10.1145/3808182
   arXiv: https://arxiv.org/abs/2606.21919
+  Slides: https://shuyaojiang.github.io/files/FSE26/FSE26_WALLE_Slides.pdf
   BibTex: https://shuyaojiang.github.io/files/FSE26/FSE26_bibtex.txt
 ---
