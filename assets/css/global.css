@@ -101,13 +101,13 @@ div.lazy {
 }
 
 .badge-success {
-    border: 1px solid #d8c7ff;
+    border: 0;
     background-color: #f1ebff;
     color: #5b35a8;
 }
 
 .badge-info {
-    border: 1px solid #b7e1da;
+    border: 0;
     background-color: #e8f7f4;
     color: #0f766e;
 }
@@ -118,7 +118,7 @@ div.lazy {
     gap: 0.25rem;
     margin-left: 0.25rem;
     padding: 0.12rem 0.45rem;
-    border: 1px solid #f2c94c;
+    border: 0;
     border-radius: 0;
     background: #fff7d6;
     color: #9a6700;
