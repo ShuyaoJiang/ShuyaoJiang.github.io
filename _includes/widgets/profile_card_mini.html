@@ -26,7 +26,7 @@
                     </div>
                 </div>
 
-                <div class="row small">
+                <div class="row">
                     <div class="col text-center">
                         {% for position in site.data.profile.positions %}
                         {{ position.name }}<br/>
@@ -34,7 +34,7 @@
                     </div>
                 </div>
 
-                <div class="row small">
+                <div class="row">
                     <div class="col text-center">
                         <a class="email-text" href="mailto:{{ site.data.profile.email | encode_email }}">
                             {{ site.data.profile.email }}

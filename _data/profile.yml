@@ -38,10 +38,10 @@ education:
   position: Ph.D. in Computer Science and Engineering
 - name: Fudan University
   logo: /assets/images/badges/FDU.png
-  position: M.Eng. in Computer Technology
-- name: Fudan University
-  logo: /assets/images/badges/FDU.png
-  position: B.Sc. in Computer Science and Technology
+  position: B.Sc & M.Eng. in Computer Science
+#- name: Fudan University
+#  logo: /assets/images/badges/FDU.png
+#  position: B.Sc. in Computer Science and Technology
 
 work:
 - name: Research Fellow, National University of Singapore
@@ -58,4 +58,4 @@ teaching:
 service:
 - name: "Program Committee: ICSE'27-Demo, ASE'26-AE, ISSTA'26-AE, ISSRE'26, ESEM'26-ERVR"
 - name: "Conference Reviewer: FSE'26, DSN'26, ICSE'26-JAWs, ASE'25, ISSTA'25, FSE'23, ISSRE'23, FSE'22, PRDC'22"
-- name: "Journal Reviewer: TSE, TOSEM"
+- name: "Journal Reviewer: TSE, TOSEM, EMSE"
