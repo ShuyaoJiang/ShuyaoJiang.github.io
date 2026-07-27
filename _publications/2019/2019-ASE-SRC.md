@@ -6,7 +6,7 @@ pub:            >-
                 IEEE/ACM International Conference on Automated Software Engineering (ASE), San Diego, CA, USA, Nov. 11-15, 2019.
 pub_pre:        >-
                 <span class="badge badge-pill badge-publication badge-success">ASE'19-SRC</span> 
-pub_last:       '<span class="publication-award"><i class="fas fa-trophy"></i> Second Place in ACM Student Research Competition (Undergraduate)</span>'         
+pub_last:       '<span class="publication-award">🏆 Second Place in ACM Student Research Competition (Undergraduate)</span>'         
 authors:
   - Shuyao Jiang
 links:
