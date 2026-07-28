@@ -59,12 +59,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .news-venue {
-    color: #a84857;
     font-weight: 700;
-}
-
-.news-venue:hover {
-    color: #813641;
 }
 
 .no-break {
