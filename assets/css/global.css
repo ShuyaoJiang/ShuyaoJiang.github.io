@@ -101,15 +101,13 @@ div.lazy {
 }
 
 .badge-success {
-    border: 0;
-    background-color: #f1ebff;
-    color: #5b35a8;
+    background-color: #e4d7ff;
+    color: #4f2f91;
 }
 
 .badge-info {
-    border: 0;
-    background-color: #e8f7f4;
-    color: #0f766e;
+    background-color: #d4f0eb;
+    color: #0b6b63;
 }
 
 .publication-award {
@@ -118,8 +116,6 @@ div.lazy {
     gap: 0.25rem;
     margin-left: 0.25rem;
     padding: 0.12rem 0.45rem;
-    border: 0;
-    border-radius: 0;
     background: #fff7d6;
     color: #9a6700;
     font-weight: 700;

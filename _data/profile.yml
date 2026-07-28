@@ -24,7 +24,7 @@ short_bio: >-
     My research interests include <b>Software Testing and Debugging, Program Analysis, Runtime Systems, and AI4SE</b>. 
     Currently, I am exploring how to leverage trustworthy AI techniques to support the testing and optimization of emerging software systems (e.g., WebAssembly).
   </p>
-  <p style="margin-top: 0.75rem; padding: 0.65rem 0.85rem; border-left: 4px solid #6f8ff2; border-radius: 6px; background: #f5f7ff; color: #3156c9;">
+  <p style="margin-top: 0.75rem; padding: 0.65rem 0.85rem; border-left: 4px solid #e57373; border-radius: 6px; background: #fff5f5; color: #b23a48;">
     <b>I am actively seeking faculty positions in Software Engineering. If you are aware of any relevant opportunities, please feel free to contact me.</b>
   </p>
 
