@@ -21,7 +21,7 @@ short_bio: >-
     Prior to that, I obtained both my B.Sc. and M.Eng. degrees in Computer Science from <a href="https://www.fudan.edu.cn/">Fudan University</a>, supervised by <a href="https://www.y-droid.com/yz/">Prof. Yangfan Zhou</a>.
   </p>
   <p>
-    My research interests include <b>Software Testing and Debugging, Program Analysis, Runtime Systems, and AI4SE</b>. 
+    My research interests include <span class="research-interest-highlight">Software Testing and Debugging</span>, <span class="research-interest-highlight">Program Analysis</span>, <span class="research-interest-highlight">Runtime Systems</span>, and <span class="research-interest-highlight">AI4SE</span>.
     Currently, I am exploring how to leverage trustworthy AI techniques to support the testing and optimization of emerging software systems (e.g., WebAssembly).
   </p>
   <p style="margin-top: 0.75rem; padding: 0.65rem 0.85rem; border-left: 4px solid #e57373; border-radius: 6px; background: #fff5f5; color: #b23a48;">

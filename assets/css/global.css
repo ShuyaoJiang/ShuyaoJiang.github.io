@@ -92,12 +92,12 @@ div.lazy {
 }
 
 .badge-success {
-    background-color: #426fae;
+    background-color: #2f6fce;
     color: #fff;
 }
 
 .badge-info {
-    background-color: #3f7d5b;
+    background-color: #27805a;
     color: #fff;
 }
 
@@ -139,6 +139,16 @@ div.lazy {
     color: #405b78;
     font-size: 0.72rem;
     line-height: 1.35;
+}
+
+.research-interest-highlight {
+    display: inline-block;
+    margin: 0.05rem 0;
+    padding: 0.08rem 0.32rem;
+    border-radius: 3px;
+    background: #eaf2fb;
+    color: #315f8c;
+    font-weight: 600;
 }
 
 .email-text {
