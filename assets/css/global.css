@@ -59,12 +59,12 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .news-venue {
-    color: #a66a00;
+    color: #a84857;
     font-weight: 700;
 }
 
 .news-venue:hover {
-    color: #7f5100;
+    color: #813641;
 }
 
 .no-break {
@@ -101,12 +101,12 @@ div.lazy {
 }
 
 .badge-success {
-    background-color: #526f9b;
+    background-color: #426fae;
     color: #fff;
 }
 
 .badge-info {
-    background-color: #3f7f78;
+    background-color: #3f7d5b;
     color: #fff;
 }
 
