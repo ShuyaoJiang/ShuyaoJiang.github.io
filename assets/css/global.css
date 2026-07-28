@@ -115,7 +115,7 @@ div.lazy {
 .profile-research-focus {
     margin-top: 0.4rem;
     padding-top: 0.8rem;
-    border-top: 1px solid #e3eaf1;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 .profile-research-title {

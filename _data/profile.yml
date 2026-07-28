@@ -38,10 +38,10 @@ education:
   position: Ph.D. in Computer Science and Engineering
 - name: Fudan University
   logo: /assets/images/badges/FDU.png
-  position: B.Sc. & M.Eng. in Computer Science
-#- name: Fudan University
-#  logo: /assets/images/badges/FDU.png
-#  position: B.Sc. in Computer Science and Technology
+  position: M.Eng. in Computer Technology
+- name: Fudan University
+  logo: /assets/images/badges/FDU.png
+  position: B.Sc. in Computer Science and Technology
 
 work:
 - name: Research Fellow, National University of Singapore
