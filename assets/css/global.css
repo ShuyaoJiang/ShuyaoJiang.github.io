@@ -59,12 +59,12 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .news-venue {
-    color: #6f42c1;
+    color: #a66a00;
     font-weight: 700;
 }
 
 .news-venue:hover {
-    color: #563299;
+    color: #7f5100;
 }
 
 .no-break {
@@ -101,7 +101,7 @@ div.lazy {
 }
 
 .badge-success {
-    background-color: #7463a8;
+    background-color: #526f9b;
     color: #fff;
 }
 
@@ -124,12 +124,12 @@ div.lazy {
 .profile-research-focus {
     margin-top: 0.4rem;
     padding-top: 0.8rem;
-    border-top: 1px solid #eceaf1;
+    border-top: 1px solid #e3eaf1;
 }
 
 .profile-research-title {
     margin-bottom: 0.5rem;
-    color: #66588f;
+    color: #45658f;
     font-size: 0.8rem;
     font-weight: 600;
 }
@@ -144,8 +144,8 @@ div.lazy {
 .profile-research-tags span {
     padding: 0.18rem 0.45rem;
     border-radius: 3px;
-    background: #f1eff7;
-    color: #51476e;
+    background: #edf3f8;
+    color: #405b78;
     font-size: 0.72rem;
     line-height: 1.35;
 }
