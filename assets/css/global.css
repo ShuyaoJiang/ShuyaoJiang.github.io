@@ -101,12 +101,12 @@ div.lazy {
 }
 
 .badge-success {
-    background-color: #5b35a8;
+    background-color: #7463a8;
     color: #fff;
 }
 
 .badge-info {
-    background-color: #0f766e;
+    background-color: #3f7f78;
     color: #fff;
 }
 
@@ -119,6 +119,35 @@ div.lazy {
     background: #fff7d6;
     color: #9a6700;
     font-weight: 700;
+}
+
+.profile-research-focus {
+    margin-top: 0.4rem;
+    padding-top: 0.8rem;
+    border-top: 1px solid #eceaf1;
+}
+
+.profile-research-title {
+    margin-bottom: 0.5rem;
+    color: #66588f;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.profile-research-tags {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.35rem;
+}
+
+.profile-research-tags span {
+    padding: 0.18rem 0.45rem;
+    border-radius: 3px;
+    background: #f1eff7;
+    color: #51476e;
+    font-size: 0.72rem;
+    line-height: 1.35;
 }
 
 .email-text {
