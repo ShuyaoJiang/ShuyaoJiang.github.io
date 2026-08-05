@@ -119,7 +119,7 @@ div.lazy {
 }
 
 .profile-secondary-name {
-    font-family: "Noto Serif SC", "Songti SC", "STSong", serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
     font-weight: 500;
 }
 
