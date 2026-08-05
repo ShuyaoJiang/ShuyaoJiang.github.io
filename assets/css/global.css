@@ -118,6 +118,11 @@ div.lazy {
     border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 
+.profile-secondary-name {
+    font-family: "Noto Serif SC", "Songti SC", "STSong", serif;
+    font-weight: 500;
+}
+
 .profile-research-title {
     margin-bottom: 0.5rem;
     color: #45658f;
