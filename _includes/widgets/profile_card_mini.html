@@ -42,6 +42,12 @@
                         <a class="email-text" href="mailto:{{ site.data.profile.email | encode_email }}">
                             {{ site.data.profile.email }}
                         </a>
+                        {% if site.data.profile.secondary_email %}
+                        <br/>
+                        <a class="email-text" href="mailto:{{ site.data.profile.secondary_email | encode_email }}">
+                            {{ site.data.profile.secondary_email }}
+                        </a>
+                        {% endif %}
                     </div>
                 </div>
 
