@@ -55,6 +55,19 @@ teaching:
 - name: COMP130048 Java Programming (FDU)
 
 service:
-- name: "Program Committee: ICSE'27-Demo, ASE'26-AE, ISSTA'26-AE, ISSRE'26, ESEM'26-ERVR"
-- name: "Journal Reviewer: TSE, TOSEM, EMSE"
-- name: "Conference Sub-Reviewer: FSE'26, DSN'26, ICSE'26-JAWs, ASE'25, ISSTA'25, FSE'23, ISSRE'23, FSE'22, PRDC'22"
+- name: >-
+    Program Committee:
+    <a href="https://conf.researchr.org/track/icse-2027/icse-2027-demonstrations">ICSE'27-Demo</a>,
+    <a href="https://conf.researchr.org/track/icpc-2027/icpc-2027-research-track">ICPC'27</a>,
+    <a href="https://conf.researchr.org/track/ase-2026/ase-2026-artifact-evaluation">ASE'26-AE</a>,
+    <a href="https://conf.researchr.org/track/issta-2026/issta-2026-artifact-evaluation">ISSTA'26-AE</a>,
+    <a href="https://cyprusconferences.org/issre2026/">ISSRE'26</a>,
+    <a href="https://conf.researchr.org/track/eseiw-2026/eseiw-2026-emerging-results-and-vision-track">ESEM'26-ERVR</a>
+- name: >-
+    Journal Reviewer:
+    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32">TSE</a>,
+    <a href="https://dl.acm.org/journal/tosem">TOSEM</a>,
+    <a href="https://link.springer.com/journal/10664">EMSE</a>
+- name: >-
+    Conference Sub-Reviewer:
+    FSE'26, DSN'26, ICSE'26-JAWs, ASE'25, ISSTA'25, FSE'23, ISSRE'23, FSE'22, PRDC'22
