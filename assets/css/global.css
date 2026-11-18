@@ -140,20 +140,20 @@ div.lazy {
 .profile-research-tags span {
     padding: 0.18rem 0.45rem;
     border-radius: 3px;
-    background: #edf3f8;
-    color: #405b78;
+    background: #fffaf0;
+    color: #9a6700;
     font-size: 0.72rem;
     line-height: 1.35;
 }
 
 .research-interest-highlight {
-    display: inline-block;
-    margin: 0.05rem 0;
     padding: 0.08rem 0.32rem;
     border-radius: 3px;
-    background: #eaf2fb;
-    color: #315f8c;
+    background: #fffaf0;
+    color: #9a6700;
     font-weight: 600;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
 }
 
 .email-text {
