@@ -1,0 +1,9 @@
+@misc{zhou2026greyzone,
+  title = {{GreyZone}: Production-quality Agentic Application Threats},
+  author = {Ruoyu Zhou and Shuyao Jiang and Haifeng Ruan and Abhik Roychoudhury},
+  year = {2026},
+  eprint = {2611.09161},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.SE},
+  url = {https://arxiv.org/abs/2611.09161}
+}

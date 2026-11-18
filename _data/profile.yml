@@ -22,7 +22,7 @@ short_bio: >-
     Prior to that, I obtained both my B.Sc. and M.Eng. degrees in Computer Science from <a href="https://www.fudan.edu.cn/">Fudan University</a>, supervised by <a href="https://www.y-droid.com/yz/">Prof. Yangfan Zhou</a>.
   </p>
   <p>
-    My research interests include <span class="research-interest-highlight">Software Testing and Debugging</span>, <span class="research-interest-highlight">Program Analysis</span>, <span class="research-interest-highlight">Runtime Systems</span>, and <span class="research-interest-highlight">AI4SE</span>.
+    My research interests include <span class="research-interest-highlight">Software Testing and Debugging</span>, <span class="research-interest-highlight">Program Analysis</span>, <span class="research-interest-highlight">AI for Software Engineering</span>, and <span class="research-interest-highlight">Trustworthy AI</span>.
     Currently, I am exploring how to leverage trustworthy AI techniques to support the testing and optimization of emerging software systems (e.g., WebAssembly).
     I am also investigating testing techniques for AI agents.
   </p>
@@ -56,8 +56,8 @@ teaching:
 service:
 - name: >-
     Program Committee:
-    <a href="https://conf.researchr.org/track/icse-2027/icse-2027-demonstrations">ICSE'27-Demo</a>,
     <a href="https://conf.researchr.org/track/icpc-2027/icpc-2027-research-track">ICPC'27</a>,
+    <a href="https://conf.researchr.org/track/icse-2027/icse-2027-demonstrations">ICSE'27-Demo</a>,
     <a href="https://conf.researchr.org/track/ase-2026/ase-2026-artifact-evaluation">ASE'26-AE</a>,
     <a href="https://conf.researchr.org/track/issta-2026/issta-2026-artifact-evaluation">ISSTA'26-AE</a>,
     <a href="https://cyprusconferences.org/issre2026/">ISSRE'26</a>,
