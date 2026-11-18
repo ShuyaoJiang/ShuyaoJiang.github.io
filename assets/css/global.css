@@ -140,8 +140,8 @@ div.lazy {
 .profile-research-tags span {
     padding: 0.18rem 0.45rem;
     border-radius: 3px;
-    background: #fffaf0;
-    color: #9a6700;
+    background: #edf3f8;
+    color: #405b78;
     font-size: 0.72rem;
     line-height: 1.35;
 }
@@ -149,8 +149,8 @@ div.lazy {
 .research-interest-highlight {
     padding: 0.08rem 0.32rem;
     border-radius: 3px;
-    background: #fffaf0;
-    color: #9a6700;
+    background: #eaf2fb;
+    color: #315f8c;
     font-weight: 600;
     -webkit-box-decoration-break: clone;
     box-decoration-break: clone;
